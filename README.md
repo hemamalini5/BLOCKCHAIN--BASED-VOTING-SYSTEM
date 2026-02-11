@@ -1,6 +1,4 @@
-Copy–paste this directly into your **README.md**.
 
----
 
 # 🔐 Blockchain-Based Voting System
 
